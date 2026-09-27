@@ -1,0 +1,9 @@
+Book|134|Studying c++|Gela kirvalidze|2007|0|Zuka todua|2026-06-07|156|Programming
+Book|178|Studying biology|lali ilauri|2014|1|||234|Biology
+Magazine|299|Magari magazine|Shota beridze|2025|1|||22|april
+Book|390|Studying discrete maths|Aleksandre gamkrelidze|2024|1|||101|Maths
+ResearchPaper|2333|Marketing strategies|Nita Shughliashvili|2026|1|||Downtown|doi1
+Magazine|2888|Fire magazine|Nini kordzaxia|2009|1|||88|September
+DVD|12399|Harrys life|Jimmy neutron|2008|1|||2.3|12
+DVD|22333|Tommy hancock|Tea gorgodze|2003|1|||1.7|18
+ResearchPaper|111232|Researching 101|Researcher|2023|1|||good conference|good doi

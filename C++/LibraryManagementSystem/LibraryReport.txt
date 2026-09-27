@@ -1,0 +1,28 @@
+Library report
+Total items: 9
+Available items: 9
+Borrowed items: 0
+Books: 3
+Magazines: 2
+DVDs: 2
+Research Papers: 2
+
+Oldest Item:
+Type: DVD
+ID: 22333
+Title: Tommy hancock
+Creator: Tea gorgodze
+Year: 2003
+Duration: 1.7
+Age Rating: 18
+Status: Available
+
+Newest Item:
+Type: ResearchPaper
+ID: 2333
+Title: Marketing strategies
+Creator: Nita Shughliashvili
+Year: 2026
+Conference: Downtown
+DOI: doi1
+Status: Available
